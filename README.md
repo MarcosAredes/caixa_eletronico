@@ -48,5 +48,11 @@ pip install -r requirements.txt
 
 python app.py
 
-5. Acesse a API em http://localhost:5000/api/saque
+5. Quando você rodar a API **Não tem interface não entre no IP** 'crie' outro terminal e cole " **curl -X POST -H "Content-Type: application/json" -d "{\"valor\": 380}" http://127.0.0.1:5000/api/saque** "  pois vai aparecer tudo no terminal
+
+Desafios:
+Escolhi fazer em python pois tenho mais afinidade tive dificuldade para a variações de valor mas resolvido, 
+
+
+
 # caixa_eletronico
