@@ -17,14 +17,16 @@ Esta API simula o funcionamento de um caixa eletrônico. Recebe um valor de saqu
    }
    ```
 
--  **Saída**
+-  **Saída**:
+
+   
    {
-   "100": 3,
-   "50": 1,
-   "20": 1,
-   "10": 1,
-   "5": 0,
-   "2": 0
+      "100": 3,
+      "50": 1,
+      "20": 1,
+      "10": 1,
+      "5": 0,
+      "2": 0
    }
 
 **Instruções para execução**
